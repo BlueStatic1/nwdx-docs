@@ -55,15 +55,15 @@ body.disasters footer {
 }
 
 /* Entities pages */
-body.entities {
+body.blocks {
   background: #041104; /* dark green */
 }
 
-body.entities header {
+body.blocks header {
   background: #082208;
 }
 
-body.entities footer {
+body.blocks footer {
   background: #082208;
 }
 
