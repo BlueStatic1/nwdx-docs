@@ -33,3 +33,9 @@ footer {
   text-align: center;
   margin-top: 40px;
 }
+.site-title {
+  display: block;
+  margin: 20px auto;
+  width: 60%;        /* change this number to scale the image */
+  max-width: 600px;  /* optional limit */
+}
