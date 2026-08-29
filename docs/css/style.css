@@ -39,3 +39,43 @@ footer {
   width: 60%;        /* change this number to scale the image */
   max-width: 650px;  /* optional limit */
 }
+/* CATEGORY COLOR THEMES */
+
+/* Disasters pages */
+body.disasters {
+  background: #330000; /* dark red */
+}
+
+body.disasters header {
+  background: #660000;
+}
+
+body.disasters footer {
+  background: #440000;
+}
+
+/* Entities pages */
+body.entities {
+  background: #003300; /* dark green */
+}
+
+body.entities header {
+  background: #006600;
+}
+
+body.entities footer {
+  background: #004400;
+}
+
+/* Items pages */
+body.items {
+  background: #000033; /* dark blue */
+}
+
+body.items header {
+  background: #000066;
+}
+
+body.items footer {
+  background: #000044;
+}
