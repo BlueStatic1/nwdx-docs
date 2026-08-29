@@ -60,11 +60,11 @@ body.entities {
 }
 
 body.entities header {
-  background: #006600;
+  background: #082208;
 }
 
 body.entities footer {
-  background: #004400;
+  background: #082208;
 }
 
 /* Items pages */
@@ -73,9 +73,9 @@ body.items {
 }
 
 body.items header {
-  background: #000066;
+  background: #080822;
 }
 
 body.items footer {
-  background: #000044;
+  background: #080822;
 }
