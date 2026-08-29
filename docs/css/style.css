@@ -37,5 +37,5 @@ footer {
   display: block;
   margin: 20px auto;
   width: 60%;        /* change this number to scale the image */
-  max-width: 800px;  /* optional limit */
+  max-width: 600px;  /* optional limit */
 }
