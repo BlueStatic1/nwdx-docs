@@ -54,7 +54,7 @@ body.disasters footer {
   background: #220808;
 }
 
-/* Entities pages */
+/* block page style */
 body.blocks {
   background: #041104; /* dark green */
 }
@@ -78,4 +78,18 @@ body.items header {
 
 body.items footer {
   background: #080822;
+}
+
+/* block pages */
+
+.block-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-left: 20px;
+}
+
+.block-icon {
+  width: 96px;
+  image-rendering: pixelated;
 }
