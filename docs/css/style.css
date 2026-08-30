@@ -84,12 +84,14 @@ body.items footer {
 
 .block-header {
   display: flex;
-  align-items: center;
-  gap: 20px;
-  margin-right: 20px;
+  justify-content: flex-end; /* pushes everything to the right */
+  align-items: center;        /* keeps them lined up */
+  gap: 20px;                  /* spacing between title and icon */
+  margin-right: 20px;         /* slight padding from the edge */
 }
 
 .block-icon {
   width: 96px;
   image-rendering: pixelated;
 }
+
