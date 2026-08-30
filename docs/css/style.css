@@ -95,3 +95,8 @@ body.items footer {
   margin-top: 10px;          /* spacing under the title */
 }
 
+.recipe-icon {
+  width: 144px;
+  image-rendering: pixelated;
+  margin-top: 10px;          /* spacing under the title */
+}
