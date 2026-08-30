@@ -90,13 +90,13 @@ body.items footer {
 }
 
 .block-icon {
-  width: 96px;
+  width: 128px;
   image-rendering: pixelated;
   margin-top: 10px;          /* spacing under the title */
 }
 
 .recipe-icon {
-  width: 144px;
+  width: 256px;
   image-rendering: pixelated;
   margin-top: 10px;          /* spacing under the title */
 }
