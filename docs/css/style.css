@@ -100,3 +100,23 @@ body.items footer {
   image-rendering: pixelated;
   margin-top: 10px;          /* spacing under the title */
 }
+
+.variants {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.variants a {
+    text-decoration: none;
+    color: #444;
+    padding: 4px;
+}
+
+.variants a:hover {
+    color: #0078d7;
+}
+
+.active {
+    border-bottom: 2px solid #5b8f00;
+}
