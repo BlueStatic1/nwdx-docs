@@ -120,3 +120,22 @@ body.items footer {
 .active {
     border-bottom: 2px solid #5b8f00;
 }
+
+.variant-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+.variant-tabs button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: inherit;
+    padding: 4px 8px;
+}
+
+.variant-tabs button:hover {
+    text-decoration: underline;
+}
